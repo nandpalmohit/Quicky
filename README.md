@@ -18,7 +18,7 @@ Here, 'Mohit nandpal' is chat with 'Creator nandpal' who is currently offline.
 
 ## New Message rendering in chat page
 'Mohit nandpal' and 'Creator Nandpal' both are online now and chat with each other.
-![User Chat Rendering](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/user-chat-demo.png)
+![User Chat Rendering](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/users-chat-demo.png)
 ![User Chat Rendering](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/user-chat-demo2.png)
 
 ## Both Users get current status of other users
