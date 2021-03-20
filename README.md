@@ -9,17 +9,22 @@ It is responsive layout that support laptop-view, tablet-view and mobile-view.
 
 ## After login into system user display the dashboard
 'Mohit Nandpal' is a user who is currently online.
+
 ![User Page Example](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/user-page.png)
 
 
 ## Chat box page
 Here, 'Mohit nandpal' is chat with 'Creator nandpal' who is currently offline.
+
 ![User Chat Example](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/user-chat-page.png)
+
 
 ## New Message rendering in chat page
 'Mohit nandpal' and 'Creator Nandpal' both are online now and chat with each other.
+
 ![User Chat Rendering](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/users-chat-demo.png)
-![User Chat Rendering](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/user-chat-demo2.png)
+![User Chat Rendering](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/user-chat-demo-2.png)
+
 
 ## Both Users get current status of other users
 ![User Page status Online](https://raw.githubusercontent.com/nandpalmohit/Quicky/main/quicky/ss/user-status.png)
